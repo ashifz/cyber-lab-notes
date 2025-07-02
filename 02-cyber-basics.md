@@ -56,9 +56,15 @@ The **CIA Triad** is a foundational model in information security:
 
 ---
 
-## Diagrams (To Be Added)
-- CIA Triad Visual
+## Diagrams
+- CIA Triad  
+![alt text](image-2.png)
 - Threat Model Chart
+![alt text](image-3.png)
 - Flow of a Phishing Attack
+![alt text](image-4.png)
 
----
+## References:
+- https://blog.51sec.org/2018/10/threat-modeling.html
+- https://owasp.org/www-community/Threat_Modeling_Process
+- https://www.cloudns.net/blog/understanding-phishing-attack-and-how-to-stay-protected/
