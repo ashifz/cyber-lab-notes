@@ -76,3 +76,6 @@
 
     DNS (Domain Name System)
     Resolves domain names to IPs
+
+## References:
+https://www.rtautomation.com/rtas-blog/a-refresher-course-on-osi-tcp-ip/?srsltid=AfmBOoon4OBECotTODr7aB5z9RQPgReG1EkF4QwrwgvqUB7keQiEzD7u
