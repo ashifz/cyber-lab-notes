@@ -57,7 +57,7 @@ sudo apt update
 sudo apt install virtualbox -y
 
 
-## VMware Workstation Player + Kali Linux VM Setup
+VMware Workstation Player + Kali Linux VM Setup
 
 -----
 
